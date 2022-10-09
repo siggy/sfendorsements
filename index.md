@@ -7,5 +7,5 @@
 | [League Of Pissed Off Voters](https://www.theleaguesf.org/)                      | Yes     | Yes     | No      | Yes     | Yes     | Yes        | Yes     |
 | [SPUR](https://www.spur.org/voter-guide/2022-11)                                 | Yes     | No      | No      | No      | No      | Yes        | Yes     |
 | [GrowSF](https://growsf.org/voter-guide/)                                        | Yes     | No      | No      | Yes     | No      | Yes        | Yes     |
-| [Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)      | Yes     | Yes     | No      | Yes     | Yes     | Yes        | &nbsp   |
-| [League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) | Yes     | Yes     | No      | No      | &nbsp   | &nbsp      | &nbsp   |
+| [Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)      | Yes     | Yes     | No      | Yes     | Yes     | Yes        | &nbsp;  |
+| [League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) | Yes     | Yes     | No      | No      | &nbsp;  | &nbsp;     | &nbsp;  |
