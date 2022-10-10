@@ -17,7 +17,7 @@
 
 ## State Propositions
 
-| Organization                                                                                                                   | [1 <span style="color:purple;font-size:24px">♀️</span>][p1] | [26 <span style="font-size:24px">🎰</span>][p26] | [27 <span style="font-size:24px">🎰</span>][p27] | [28 <span style="font-size:24px">🎨</span>][p28] | [29 <span style="font-size:24px">🫘</span>][p29] | [30 <span style="font-size:24px">🚗</span>][p30] | [31 <span style="font-size:24px">🚬</span>][p31] |
+| Organization                                                                                                                   | [1 <span style="color:pink;font-size:24px">♀️</span>][p1] | [26 <span style="font-size:24px">🎰</span>][p26] | [27 <span style="font-size:24px">🎰</span>][p27] | [28 <span style="font-size:24px">🎨</span>][p28] | [29 <span style="font-size:24px">🫘</span>][p29] | [30 <span style="font-size:24px">🚗</span>][p30] | [31 <span style="font-size:24px">🚬</span>][p31] |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <span style="white-space: nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                           | ✅  | ✅  | ❌   | ✅  | ✅   | ✅  | ✅  |
 | <span style="white-space: nowrap;">[SPUR](https://www.spur.org/voter-guide/2022-11)<span>                                      | ✅  | ❌  | ❌   | ❌  | ❌   | ✅  | ✅  |
