@@ -4,11 +4,11 @@
 
 | Organization                                                                     | [Prop 1][p1] ♀️ | [Prop 26][p26] <span style="color:pink;"><b>♀️</b></span> | [Prop 27][p27] <span style="color:blue;font-weight:bold"><b>♀️</b></span> | [Prop 28][p28] | [Prop 29][p29] | [Prop 30][p30] | [Prop 31][p31] |
 | -------------------------------------------------------------------------------- | ------------ | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
-| [League Of Pissed Off Voters](https://www.theleaguesf.org/)                      | ✅ ♀️ :white_check_mark:          | Yes            | No             | Yes            | Yes            | Yes            | Yes            |
-| [SPUR](https://www.spur.org/voter-guide/2022-11)                                 | Yes          | No             | No             | No             | No             | Yes            | Yes            |
-| [GrowSF](https://growsf.org/voter-guide/)                                        | Yes          | No             | No             | Yes            | No             | Yes            | Yes            |
-| [Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)      | Yes          | Yes            | No             | Yes            | Yes            | Yes            | &nbsp;         |
-| [League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) | Yes          | Yes            | No             | No             | &nbsp;         | &nbsp;         | &nbsp;         |
+| [League Of Pissed Off Voters](https://www.theleaguesf.org/)                      | ✅ ♀️ :white_check_mark:          | ✅              | No             | ✅              | ✅              | ✅              | ✅              |
+| [SPUR](https://www.spur.org/voter-guide/2022-11)                                 | ✅            | ❌             | 🙅             | No             | No             | ✅              | ✅              |
+| [GrowSF](https://growsf.org/voter-guide/)                                        | ✅            | ⛔             | ✖️             | ✅              | No             | ✅              | ✅              |
+| [Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)      | ✅            | ✅              | No             | ✅              | ✅              | ✅              | &nbsp;         |
+| [League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) | ✅            | ✅              | No             | No             | &nbsp;         | &nbsp;         | &nbsp;         |
 
 Proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2022/propositions/)
 
