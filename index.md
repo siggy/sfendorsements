@@ -2,7 +2,7 @@
 
 ## Local Propositions
 
-| Organization                                                                                                              | [A <span style="color:purple;font-size:24px">♀️🏥</span>][p1] | [B <span style="font-size:24px">🖥️🎰</span>][p26] | [C <span style="font-size:24px">🖥️🎰</span>][p27] | [D <span style="font-size:24px">🎨🎼</span>][p28] | [E <span style="font-size:24px">🏥🫘</span>][p29] | [F <span style="font-size:24px">🚗🔌</span>][p30] | [G <span style="font-size:24px">🚬🍎</span>][p31] | [H <span style="font-size:24px">🚬🍎</span>][p31] | [I <span style="font-size:24px">🚬🍎</span>][p31] | [J <span style="font-size:24px">🚬🍎</span>][p31] | [L <span style="font-size:24px">🚬🍎</span>][p31] | [M <span style="font-size:24px">🚬🍎</span>][p31] | [N <span style="font-size:24px">🚬🍎</span>][p31] | [O <span style="font-size:24px">🚬🍎</span>][p31] |
+| Organization                                                                                                              | [A <span style="color:purple;font-size:24px">🧓🏽💵</span>][sf] | [B <span style="font-size:24px">🧹🛣️</span>][sf] | [C <span style="font-size:24px">🏡👀</span>][sf] | [D <span style="font-size:24px">🏡❤️</span>][sf] | [E <span style="font-size:24px">🏡❤️</span>][sf] | [F <span style="font-size:24px">📚🏛️</span>][sf] | [G <span style="font-size:24px">🏫🧑</span>][sf] | [H <span style="font-size:24px">🗳️🧑</span>][sf] | [I <span style="font-size:24px">🚗🛻</span>][sf] | [J <span style="font-size:24px">🚶🚴</span>][sf] | [L <span style="font-size:24px">🚇🚌</span>][sf] | [M <span style="font-size:24px">🏠💰</span>][sf] | [N <span style="font-size:24px">🌳🚗</span>][sf] | [O <span style="font-size:24px">🏫💰</span>][sf] |
 | :------------------------------------------------------------------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <span style="white-space: nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                 | ✅  | ✅  | ✅   | ❌  | ✅   | ✅  | ✅  | ✅   | ❌  |      | ✅  | ✅  | ✅  | ✅   |
 | <span style="white-space: nowrap;">[SPUR](https://www.spur.org/voter-guide/2022-11)<span>                            | ✅  | ✅  | ✅   | ✅  | ❌   | ✅  | ✅  | ✅   | ❌  | ✅   | ✅  | ❌  | ✅  | ❌   |
@@ -14,11 +14,11 @@
 
 | Organization                                                                                                              | [Prop 1 <span style="color:purple;font-size:24px">♀️🏥</span>][p1] | [Prop 26 <span style="font-size:24px">🖥️🎰</span>][p26] | [Prop 27 <span style="font-size:24px">🖥️🎰</span>][p27] | [Prop 28 <span style="font-size:24px">🎨🎼</span>][p28] | [Prop 29 <span style="font-size:24px">🏥🫘</span>][p29] | [Prop 30 <span style="font-size:24px">🚗🔌</span>][p30] | [Prop 31 <span style="font-size:24px">🚬🍎</span>][p31] |
 | :------------------------------------------------------------------------------------------------------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| <span style="white-space: nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                      | ✅  | ✅  | ❌ | ✅  | ✅ | ✅ | ✅ |
-| <span style="white-space: nowrap;">[SPUR](https://www.spur.org/voter-guide/2022-11)<span>                                 | ✅  | ❌  | ❌ | ❌  | ❌ | ✅ | ✅ |
-| <span style="white-space: nowrap;">[GrowSF](https://growsf.org/voter-guide/)<span>                                        | ✅  | ❌  | ❌ | ✅  | ❌ | ✅ | ✅ |
-| <span style="white-space: nowrap;">[Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)<span>      | ✅  | ✅  | ❌ | ✅  | ✅ | ✅ |  |
-| <span style="white-space: nowrap;">[League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations)<span> | ✅  | ✅  | ❌ | ❌  |  |  |  |
+| <span style="white-space: nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                      | ✅  | ✅  | ❌   | ✅  | ✅   | ✅  | ✅  |
+| <span style="white-space: nowrap;">[SPUR](https://www.spur.org/voter-guide/2022-11)<span>                                 | ✅  | ❌  | ❌   | ❌  | ❌   | ✅  | ✅  |
+| <span style="white-space: nowrap;">[GrowSF](https://growsf.org/voter-guide/)<span>                                        | ✅  | ❌  | ❌   | ✅  | ❌   | ✅  | ✅  |
+| <span style="white-space: nowrap;">[Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)<span>      | ✅  | ✅  | ❌   | ✅  | ✅   | ✅  |     |
+| <span style="white-space: nowrap;">[League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations)<span> | ✅  | ✅  | ❌   | ❌  |     |     |     |
 
 ## About
 
@@ -26,6 +26,7 @@ Proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2
 
 [Source code](https://github.com/siggy/sfendorsements)
 
+[sf]:  https://sfelections.sfgov.org/measures
 [p1]:  https://calmatters.org/california-voter-guide-2022/propositions/prop-1-abortion-rights/
 [p26]: https://calmatters.org/california-voter-guide-2022/propositions/prop-26-sports-betting-tribal-casinos/
 [p27]: https://calmatters.org/california-voter-guide-2022/propositions/prop-27-sports-betting-online/
