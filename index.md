@@ -14,4 +14,7 @@ Proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2
 
 
 <span style="color:blue">♀️</span>
-<span style="color:pink"><b>♀️</b></span>
+<span style="color:pink;"><b>♀️</b></span>
+<span style="color:pink; font-weight:bold"><b>♀️</b></span>
+
+font-weight:bold
