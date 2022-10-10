@@ -2,7 +2,7 @@
 
 ## State Propositions
 
-| Organization                                                                     | [Prop 1 <span style="color:purple;font-size=20px">♀️></span>][p1] <span style="color:purple;font-size=20px">♀️</span> | [<span style="font-size=20px">Prop 26 🖥️🎰</span>][p26] <span style="font-size=20px">🖥️🎰</span> | <span style="font-size=30px">[Prop 27][p27] 🖥️🎰</span> | [Prop 28][p28] <span style="font-size=20px">🎨🎼</span> | [Prop 29][p29] <span style="font-size=20px">🏥🫘</span> | [Prop 30][p30] <span style="font-size=20px">🚗🔌💰</span> | **[Prop 31][p31] 🚬🍎** |
+| Organization                                                                     | [Prop 1 <span style="color:purple;font-size:20px">♀️</span>][p1] <span style="color:purple;font-size:20px">♀️</span> | [Prop 26 🖥️🎰][p26] | [Prop 27 🖥️🎰][p27] | [Prop 28 🎨🎼][p28] | [Prop 29 🏥🫘][p29] | [Prop 30 🚗🔌💰][p30] | [Prop 31 🚬🍎][p31] |
 | -------------------------------------------------------------------------------- | ------------ | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 | [League Of Pissed Off Voters](https://www.theleaguesf.org/)                      | ✅ ♀️ :white_check_mark:          | ✅              | No             | ✅              | ✅              | ✅              | ✅              |
 | [SPUR](https://www.spur.org/voter-guide/2022-11)                                 | ✅            | ❌             | 🙅             | No             | No             | ✅              | ✅              |
@@ -12,9 +12,9 @@
 
 Proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2022/propositions/)
 
-<span style="color:blue">♀️</span>
-<span style="color:pink;"><b>♀️</b></span>
-<span style="color:pink;font-weight:bold"><b>♀️</b></span>
+<span style="color:blue">♀️
+<span style="color:pink;"><b>♀️</b>
+<span style="color:pink;font-weight:bold"><b>♀️</b>
 
 font-weight:bold
 
