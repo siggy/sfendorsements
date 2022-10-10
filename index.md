@@ -1,4 +1,4 @@
-# SF Endorsements ❌vember 2022
+# SF Endorsements November 2022
 
 ## State Propositions
 
@@ -10,7 +10,11 @@
 | [Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)      | ✅  | ✅              | ❌             | ✅             | ✅              | ✅             | &nbsp;         |
 | [League Of Women Voters](https://lwvc.org/vote/elections/ballot-recommendations) | ✅  | ✅              | ❌             | ❌             | &nbsp;          | &nbsp;        | &nbsp;         |
 
+## About
+
 Proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2022/propositions/)
+
+[Source code](https://github.com/siggy/sfendorsements)
 
 [p1]:  https://calmatters.org/california-voter-guide-2022/propositions/prop-1-abortion-rights/
 [p26]: https://calmatters.org/california-voter-guide-2022/propositions/prop-26-sports-betting-tribal-casinos/
