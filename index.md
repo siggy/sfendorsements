@@ -2,6 +2,14 @@
 
 ## State Propositions
 
+[Prop 1][p1]
+[Prop 26][p26]
+[Prop 27][p27]
+[Prop 28][p28]
+[Prop 29][p29]
+[Prop 30][p30]
+[Prop 31][p31]
+
 | Organization                                                                     | [Prop 1](https://calmatters.org/california-voter-guide-2022/propositions/prop-1-abortion-rights/) <span style="color:pink">♀️</span> | [Prop 26](https://calmatters.org/california-voter-guide-2022/propositions/prop-26-sports-betting-tribal-casinos/) | [Prop 27](https://calmatters.org/california-voter-guide-2022/propositions/prop-27-sports-betting-online/) | [Prop 28](https://calmatters.org/california-voter-guide-2022/propositions/prop-28-arts-education/) | [Prop 29](https://calmatters.org/california-voter-guide-2022/propositions/prop-29-kidney-dialysis/) | [Prop 30](https://calmatters.org/california-voter-guide-2022/propositions/prop-30-income-tax-electric-cars/) | [Prop 31](https://calmatters.org/california-voter-guide-2022/propositions/prop-31-flavored-tobacco-ban/) |
 | -------------------------------------------------------------------------------- | ------- | ------- | ------- | ------- | ------- | ---------- | ------- |
 | [League Of Pissed Off Voters](https://www.theleaguesf.org/)                      | Yes     | Yes     | No      | Yes     | Yes     | Yes        | Yes     |
@@ -18,3 +26,13 @@ Proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2
 <span style="color:pink; font-weight:bold"><b>♀️</b></span>
 
 font-weight:bold
+
+
+<!-- refs -->
+[p1]: https://calmatters.org/california-voter-guide-2022/propositions/prop-1-abortion-rights/
+[p26]: https://calmatters.org/california-voter-guide-2022/propositions/prop-26-sports-betting-tribal-casinos/
+[p27]: https://calmatters.org/california-voter-guide-2022/propositions/prop-27-sports-betting-online/
+[p28]: https://calmatters.org/california-voter-guide-2022/propositions/prop-28-arts-education/
+[p29]: https://calmatters.org/california-voter-guide-2022/propositions/prop-29-kidney-dialysis/
+[p30]: https://calmatters.org/california-voter-guide-2022/propositions/prop-30-income-tax-electric-cars/
+[p31]: https://calmatters.org/california-voter-guide-2022/propositions/prop-31-flavored-tobacco-ban/
