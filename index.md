@@ -27,6 +27,13 @@
 | <span style="white-space: nowrap;">[SF Democrats](https://www.sfdemocrats.org/voting/endorsements/2022/8/13/general2022)<span> | ✅  |     | ❌   | ✅  | ✅   | ✅  | ✅  |
 | <span style="white-space: nowrap;">[SF Republicans](https://www.sfgop.org/nov22voterguide)<span>                               | ❌  | ❌  | ❌   |     | ❌   | ❌  | ❌  |
 
+## Local Offices
+
+| Organization                                                                                                                   | D2  | D4  | D6  | D8  | D10 | City College, 4 Year | City College, 2 Year | SFUSD | Assessor-Recorder | DA  | PD  | BART Director, District 8 |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-:                  | :-:                  | :-:   | :-:               | :-: | :-: | :-:                       |
+| <span style="white-space: nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                           |     | Gordon Mar | #1 Honey Mahogany, #2 Cherelle Jackson  |    | Shamann Walton   | Vick Chung, Anita Martinez, Susan Solomon  | Adolfo Velasquez  | Alida Fisher, Karen Fleshman, Gabriela López       |     | John Hamasaki     | Mano Raju  | Janice Li |
+| <span style="white-space: nowrap;">[GrowSF](https://growsf.org/voter-guide/)<span>                                             |  Catherine Stefani   | Joel Engardio  | Matt Dorsey   | Rafael Mandelman   |     |  | Murrell Green  | Ann Hsu, Lainie Motamedi, and Lisa Weissman-Ward   | Joaquín Torres    | Brooke Jenkins      | Mano Raju  | Janice Li |
+
 ## About
 
 State proposition info by [CalMatters](https://calmatters.org/california-voter-guide-2022/propositions/)
