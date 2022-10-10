@@ -45,6 +45,14 @@
 | <span style="white-space: nowrap;">[Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)<span>           |                   | Eleni Kounalakis | Shirley Weber      | Malia Cohen |            | Rob Bonta        | Ricardo Lara           | Tony Thurmond                        | Sally Lieber              | Matt Haney    | Phil Ting     |                                |                                                                     |
 | <span style="white-space: nowrap;">[SF Democrats](https://www.sfdemocrats.org/voting/endorsements/2022/8/13/general2022)<span> | Gavin Newson      | Eleni Kounalakis | Shirley Weber      | Malia Cohen | Fiona Ma   | Rob Bonta        | Ricardo Lara           | Tony Thurmond                        | Sally Lieber              | Matt Haney    | Phil Ting     |                                |                                                                     |
 
+## US Offices
+
+| Organization                                                                                                                   | Senator      | D11          | D15          |
+| :----------------------------------------------------------------------------------------------------------------------------- | :----------- | :----------- | :----------- |
+| <span style="white-space: nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                           | Alex Padilla |              | David Canepa |
+| <span style="white-space: nowrap;">[GrowSF](https://growsf.org/voter-guide/)<span>                                             | Alex Padilla | Nancy Pelosi | Kevin Mullin |
+| <span style="white-space: nowrap;">[Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)<span>           | Alex Padilla | Nancy Pelosi | David Canepa |
+| <span style="white-space: nowrap;">[SF Democrats](https://www.sfdemocrats.org/voting/endorsements/2022/8/13/general2022)<span> | Alex Padilla | Nancy Pelosi | Kevin Mullin |
 
 ## About
 
