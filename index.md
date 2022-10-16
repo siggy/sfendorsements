@@ -63,7 +63,7 @@
 | <span style="white-space:nowrap;">[League Of Pissed Off Voters](https://www.theleaguesf.org/)<span>                                                               | Alex Padilla |              | David Canepa |
 | <span style="white-space:nowrap;">[GrowSF](https://growsf.org/voter-guide/)<span>                                                                                 | Alex Padilla | Nancy Pelosi | Kevin Mullin |
 | <span style="white-space:nowrap;">[Harvey Milk LGBTQ Democratic Club](https://www.milkclub.org/endorsements/)<span>                                               | Alex Padilla | Nancy Pelosi | David Canepa |
-| <span style="white-space:nowrap;">[California Labor Federation](https://sflaborcouncil.org/wp-content/uploads/2022/08/FINAL-2022-Biennial-Endorsements.pdf)<span> | Alex Padilla |              | Kevin Mullin |
+| <span style="white-space:nowrap;">[California Labor Federation](https://sflaborcouncil.org/wp-content/uploads/2022/08/FINAL-2022-Biennial-Endorsements.pdf)<span> | Alex Padilla | Nancy Pelosi | Kevin Mullin |
 | <span style="white-space:nowrap;">[SF Berniecrats](https://sfberniecrats.com/november-2022-endorsements/)<span>                                                   | Alex Padilla |              | David Canepa |
 | <span style="white-space:nowrap;">[SF Democrats](https://www.sfdemocrats.org/voting/endorsements/2022/8/13/general2022)<span>                                     | Alex Padilla | Nancy Pelosi | Kevin Mullin |
 
