@@ -1,0 +1,36 @@
+title: SF Election Endorsements Matrix
+author:
+  name: John Smith
+  email: andrew@sig.gy
+description: >
+  An endorsement matrix for the November 2022 San Francisco election.
+url: "https://sig.gy"
+baseurl: "/sfendorsements"
+markdown: kramdown
+google_analytics: UA-27834075-1
+theme: minima
+minima:
+  skin: auto
+# theme: jekyll-theme-minima
+github:
+  is_project_page: true
+  owner_name: siggy
+  owner_url: https://github.com/siggy
+  repository_url: https://github.com/siggy/sfendorsements
+
+# title: "SF Election Endorsements Matrix"
+# email: andrew@sig.gy
+# description: >
+#   An endorsement matrix for the November 2022 San Francisco election.
+# url: "https://sig.gy"
+# baseurl: "/bbox"
+# markdown: kramdown
+# theme: jekyll-theme-minima
+# github_username:  siggy
+# twitter_username: siggy
+# google_analytics: true
+# github:
+#   is_project_page: true
+#   owner_name: siggy
+#   owner_url: https://github.com/siggy
+#   repository_url: https://github.com/siggy/bbox
