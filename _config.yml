@@ -1,6 +1,6 @@
 title: SF Election Endorsements Matrix
 author:
-  name: John Smith
+  name: Andrew Seigner
   email: andrew@sig.gy
 description: >
   An endorsement matrix for the November 2022 San Francisco election.
@@ -8,10 +8,10 @@ url: "https://sig.gy"
 baseurl: "/sfendorsements"
 markdown: kramdown
 google_analytics: UA-27834075-1
-theme: minima
+# theme: minima
+theme: jekyll-theme-minima
 minima:
   skin: auto
-# theme: jekyll-theme-minima
 github:
   is_project_page: true
   owner_name: siggy
