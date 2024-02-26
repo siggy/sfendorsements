@@ -1,5 +1,5 @@
 # sfendorsements
 
-November 2022 SF Election Endorsements
+March 2024 SF Election Endorsements
 
 Inspired by https://sfendorsements.com/
